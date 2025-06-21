@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset and model outputs
+flat_dataset/
+*.ckpt
+*.h5
+*.pth
+*.pt
+*.onnx
+*.tflite
+
+# VSCode settings
+.vscode/
+
+# Environment and config files
+.env
+*.env
+*.yaml
+*.yml
+*.log
+
+# Pip cache
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
